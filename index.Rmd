@@ -1,0 +1,20 @@
+---
+title: "Zoë Turner"
+image: "img/me.jpg"
+links:
+  - label: LinkedIn
+    url: "https://uk.linkedin.com/in/zo%C3%AB-turner-9bba4840"
+  - label: Twitter
+    url: "https://twitter.com/Letxuga007"
+  - label: GitHub
+    url: "https://github.com/Lextuga007"
+  - label: Email
+    url: "mailto:zoe.turner2@nottshc.nhs.uk"
+output:
+  postcards::jolla
+---
+ 
+I am a Senior Information Analyst in 
+Nottinghamshire Healthcare NHS Foundation in the CDU Data Science Team: @DataScienceNott
+
+I am also the Non Exec Director for @apha_analysts and a proud Fellow of @nhsrcommunity
