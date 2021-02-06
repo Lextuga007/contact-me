@@ -17,4 +17,4 @@ output:
 I am a Senior Information Analyst in 
 Nottinghamshire Healthcare NHS Foundation in the CDU Data Science Team: @DataScienceNott
 
-I am also the Non Exec Director for @apha_analysts and a proud Fellow of @nhsrcommunity
+I am also the Non Exec Director for @apha_analysts and a proud Fellow of @nhsrcommunity. NHS colleagues can exchange hours for R and data support through [Hexitime](https://hexitime.com/).
