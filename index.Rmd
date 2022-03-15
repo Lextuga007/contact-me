@@ -17,6 +17,6 @@ output:
 ---
  
 I am a Data Scientist in 
-Nottinghamshire Healthcare NHS Foundation in the CDU Data Science Team: @DataScienceNott
+Nottinghamshire Healthcare NHS Foundation in the CDU Data Science Team [@DataScienceNott](https://twitter.com/DataScienceNott) and [GitHub](https://github.com/CDU-data-science-team)
 
 I am also the Non Exec Director for [Association of Professional Healthcare Analysts](aphanalysts.org) and a proud Senior Fellow of [NHS-R Community](https://nhsrcommunity.com/). NHS colleagues can exchange hours for R and data support through [Hexitime](https://hexitime.com/).
