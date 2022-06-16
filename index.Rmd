@@ -16,7 +16,8 @@ output:
   postcards::jolla
 ---
  
-I am a Data Scientist in 
-Nottinghamshire Healthcare NHS Foundation in the CDU Data Science Team [@DataScienceNott](https://twitter.com/DataScienceNott) and [GitHub](https://github.com/CDU-data-science-team)
+I work as a Data Scientist at Nottinghamshire Healthcare NHS Foundation Trust, a mental and general health Trust, working with both R and SQL on a daily basis. 
 
-I am also the Non Exec Director for [Association of Professional Healthcare Analysts](aphanalysts.org) and a proud Senior Fellow of [NHS-R Community](https://nhsrcommunity.com/). NHS colleagues can exchange hours for R and data support through [Hexitime](https://hexitime.com/).
+I'm a proud Senior Fellow of the [NHS-R Community](https://nhsrcommunity.com/) and NHS colleagues can use [Hexitime](https://hexitime.com/) time bank to exchange time and skills.
+
+I have a particular interest in Ethics having studied Philosophy and some of my thoughts on this, along with technical blogs, can be found on my {distill} blog [site](https://lextuga007.github.io/PhilosopherAnalyst/).
